@@ -74,14 +74,8 @@
             "ref": "70062abc2cd58794d2a90274502f81b55cd9951b"
         }
     },
-    "egulias/email-validator": {
-        "version": "2.1.6"
-    },
     "facebook/webdriver": {
         "version": "1.6.0"
-    },
-    "fig/link-util": {
-        "version": "1.0.0"
     },
     "jdorn/sql-formatter": {
         "version": "v1.2.17"
@@ -95,22 +89,10 @@
     "ocramius/proxy-manager": {
         "version": "2.1.1"
     },
-    "phpdocumentor/reflection-common": {
-        "version": "1.0.1"
-    },
-    "phpdocumentor/reflection-docblock": {
-        "version": "4.3.0"
-    },
-    "phpdocumentor/type-resolver": {
-        "version": "0.4.0"
-    },
     "psr/cache": {
         "version": "1.0.1"
     },
     "psr/container": {
-        "version": "1.0.0"
-    },
-    "psr/link": {
         "version": "1.0.0"
     },
     "psr/log": {
@@ -127,9 +109,6 @@
             "version": "5.2",
             "ref": "fb7e19da7f013d0d422fa9bce16f5c510e27609b"
         }
-    },
-    "swiftmailer/swiftmailer": {
-        "version": "v6.1.3"
     },
     "symfony/asset": {
         "version": "v4.1.7"
@@ -185,9 +164,6 @@
     "symfony/event-dispatcher": {
         "version": "v4.1.7"
     },
-    "symfony/expression-language": {
-        "version": "v4.1.7"
-    },
     "symfony/filesystem": {
         "version": "v4.1.7"
     },
@@ -202,9 +178,6 @@
             "version": "1.0",
             "ref": "e921bdbfe20cdefa3b82f379d1cd36df1bc8d115"
         }
-    },
-    "symfony/form": {
-        "version": "v4.1.7"
     },
     "symfony/framework-bundle": {
         "version": "3.3",
@@ -222,9 +195,6 @@
         "version": "v4.1.7"
     },
     "symfony/inflector": {
-        "version": "v4.1.7"
-    },
-    "symfony/intl": {
         "version": "v4.1.7"
     },
     "symfony/maker-bundle": {
@@ -248,9 +218,6 @@
             "ref": "18ebf5a940573a20de06f9c4060101eeb438cf3d"
         }
     },
-    "symfony/options-resolver": {
-        "version": "v4.1.7"
-    },
     "symfony/orm-pack": {
         "version": "v1.0.5"
     },
@@ -266,9 +233,6 @@
             "ref": "b14c7f62fabeedf256d3211b0f704402b5530ba1"
         }
     },
-    "symfony/polyfill-intl-icu": {
-        "version": "v1.10.0"
-    },
     "symfony/polyfill-mbstring": {
         "version": "v1.10.0"
     },
@@ -282,9 +246,6 @@
         "version": "v1.0.3"
     },
     "symfony/property-access": {
-        "version": "v4.1.7"
-    },
-    "symfony/property-info": {
         "version": "v4.1.7"
     },
     "symfony/routing": {
@@ -308,35 +269,11 @@
             "ref": "f8a63faa0d9521526499c0a8f403c9964ecb0527"
         }
     },
-    "symfony/serializer": {
-        "version": "v4.1.7"
-    },
-    "symfony/serializer-pack": {
-        "version": "v1.0.1"
-    },
     "symfony/stopwatch": {
         "version": "v4.1.7"
     },
-    "symfony/swiftmailer-bundle": {
-        "version": "2.5",
-        "recipe": {
-            "repo": "github.com/symfony/recipes",
-            "branch": "master",
-            "version": "2.5",
-            "ref": "3db029c03e452b4a23f7fc45cec7c922c2247eb8"
-        }
-    },
     "symfony/test-pack": {
         "version": "v1.0.4"
-    },
-    "symfony/translation": {
-        "version": "3.3",
-        "recipe": {
-            "repo": "github.com/symfony/recipes",
-            "branch": "master",
-            "version": "3.3",
-            "ref": "1fb02a6e1c8f3d4232cce485c9afa868d63b115a"
-        }
     },
     "symfony/twig-bridge": {
         "version": "v4.1.7"
@@ -350,19 +287,7 @@
             "ref": "369b5b29dc52b2c190002825ae7ec24ab6f962dd"
         }
     },
-    "symfony/validator": {
-        "version": "4.1",
-        "recipe": {
-            "repo": "github.com/symfony/recipes",
-            "branch": "master",
-            "version": "4.1",
-            "ref": "0cdc982334f45d554957a6167e030482795bf9d7"
-        }
-    },
     "symfony/var-dumper": {
-        "version": "v4.1.7"
-    },
-    "symfony/web-link": {
         "version": "v4.1.7"
     },
     "symfony/web-profiler-bundle": {
@@ -397,9 +322,6 @@
     },
     "twig/twig": {
         "version": "v2.5.0"
-    },
-    "webmozart/assert": {
-        "version": "1.3.0"
     },
     "zendframework/zend-code": {
         "version": "3.3.1"
